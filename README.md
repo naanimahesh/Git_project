@@ -1,4 +1,2 @@
-# commclassroomOP
-
--Kunal Kushwaha learing github amazing..
--Mahesh is learning git...
+-HEllo 
+-I am mahesh learning git from kunal.
